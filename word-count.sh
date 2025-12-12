@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Applicable to text-based files, such as .txt and .md.
+
 file="$1"
 
 if [[ -f "$file" ]]; then
