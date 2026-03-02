@@ -6,6 +6,7 @@ This repository contains scripts that can be used for inspector customization in
 
 - [Exif Information](./exif-information.sh)
 - [MKV Information](./mkv-information.sh)
+- [Word Count](./word-count.sh)
 
 ## Actions
 - [FFmpeg Compress](./ffmpeg-compress.sh)
