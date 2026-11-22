@@ -13,6 +13,7 @@ This repository contains scripts that can be used for inspector customization in
 - [Create DMG from application](./create-dmg-from-application.sh)
 - [Touch](./touch.sh)
 - [Encode Selected Video Files](./encode-selected-video-files.sh)
+- [Clear Exif Information](./clear-exif-information.sh)
 
 ## Request a New Script
 
